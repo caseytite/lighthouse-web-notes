@@ -11,3 +11,8 @@ notes taken by
 [Casey](https://github.com/caseytite)
 
 <!-- this is how we create a link -->
+
+## Table of Contents
+
+- [Week 1](/Week_1)
+  - [Day1](/Week_1/Day_1)
