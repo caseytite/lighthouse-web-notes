@@ -13,3 +13,7 @@ then we created a new repository on git hub and linked it to push to. -->
 
 - [Week 1](/Week_1)
   - [Day1](/Week_1/Day_1)
+  - [Day2](/Week_1/Day_2)
+  - [Day3](/Week_1/Day_3)
+  - [Day4](/Week_1/Day_4)
+  - [Day5](/Week_1/Day_5)
